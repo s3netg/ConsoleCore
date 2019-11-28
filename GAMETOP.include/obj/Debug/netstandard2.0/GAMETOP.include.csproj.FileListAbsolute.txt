@@ -1,0 +1,8 @@
+/home/sergio/Downloads/sergio/DOTNET/GAMETOP.include/bin/Debug/netstandard2.0/GAMETOP.include.deps.json
+/home/sergio/Downloads/sergio/DOTNET/GAMETOP.include/bin/Debug/netstandard2.0/GAMETOP.include.dll
+/home/sergio/Downloads/sergio/DOTNET/GAMETOP.include/bin/Debug/netstandard2.0/GAMETOP.include.pdb
+/home/sergio/Downloads/sergio/DOTNET/GAMETOP.include/obj/Debug/netstandard2.0/GAMETOP.include.csprojAssemblyReference.cache
+/home/sergio/Downloads/sergio/DOTNET/GAMETOP.include/obj/Debug/netstandard2.0/GAMETOP.include.AssemblyInfoInputs.cache
+/home/sergio/Downloads/sergio/DOTNET/GAMETOP.include/obj/Debug/netstandard2.0/GAMETOP.include.AssemblyInfo.cs
+/home/sergio/Downloads/sergio/DOTNET/GAMETOP.include/obj/Debug/netstandard2.0/GAMETOP.include.dll
+/home/sergio/Downloads/sergio/DOTNET/GAMETOP.include/obj/Debug/netstandard2.0/GAMETOP.include.pdb
